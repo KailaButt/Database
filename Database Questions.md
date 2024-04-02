@@ -53,23 +53,23 @@ Having 1 database with 2 connections at the moment. There is a potential
 
 #### Angel Montes Group
 
-| Questions | Possible Questions(String) | Lvl of Difficulty |
-| --------- | -------------------------- | ----------------- |
-|           |                            | 1                 |
-|           |                            | 1                 |
-|           |                            | 1                 |
-|           |                            | 1                 |
-|           |                            | 1                 |
-|           |                            | 2                 |
-|           |                            | 2                 |
-|           |                            | 2                 |
-|           |                            | 2                 |
-|           |                            | 2                 |
-|           |                            | 3                 |
-|           |                            | 3                 |
-|           |                            | 3                 |
-|           |                            | 3                 |
-|           |                            | 3                 |
+| Questions                                                                                  | Possible Questions(String)                                                                                                                                                                   | Lvl of Difficulty |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| What is the syntax for declaring a variable in C++?                                        | data_type variable_name;                                                                                                                                                                     | 1                 |
+| Explain the difference between pass by value and pass by reference in C++?                 | Pass by value makes a copy of the actual parameter's value, while pass by reference allows the function to directly access and modify the actual parameter.                                  | 1                 |
+| How do you initialize an array in C++?                                                     | array_name[size] = {value1, value2, ...};                                                                                                                                                    | 1                 |
+| What is the purpose of the iostream library in C++?                                        | For input and output operations.                                                                                                                                                             | 1                 |
+| What is the difference between cout and cin in C++?                                        | cout is used for output (printing), while cin is used for input (reading).                                                                                                                   | 1                 |
+| Explain the concept of pointers in C++ and provide an example.                             | Pointers are variables that store memory addresses. Example: int *ptr;                                                                                                                       | 2                 |
+| What is the difference between struct and class in C++?                                    | Members of a struct are public by default, while members of a class are private by default.                                                                                                  | 2                 |
+| Describe the purpose of constructors and destructors in C++.                               | Constructors are used to initialize objects, while destructors are used to clean up resources.                                                                                               | 2                 |
+| How do you dynamically allocate memory in C++?                                             | Using the new keyword.                                                                                                                                                                       | 2                 |
+| Explain the concept of inheritance in C++ with an example.                                 | Inheritance allows a class to inherit properties and behaviors from another class. Example: class DerivedClass : public BaseClass {}                                                         | 2                 |
+| What are lambda expressions in C++? Provide an example of their usage.                     | Lambda expressions are anonymous functions that can capture variables from their surrounding scope.                                                                                          | 3                 |
+| Describe the difference between runtime polymorphism and compile-time polymorphism in C++. | Runtime polymorphism is achieved through virtual functions and dynamic binding, while compile-time polymorphism is achieved through templates and function overloading.                      | 3                 |
+| Explain the concept of function overloading and function overriding in C++.                | Function overloading involves redefining a base class function in a derived class, while function overriding involves having multiple functions with the same name but different parameters. | 3                 |
+| What is a template in C++? How do you define and use templates?                            | Templates allow generic programming by defining functions or classes that can work with any data type.                                                                                       | 3                 |
+| Describe the process of multiple inheritance in C++ and its potential issues.              | Multiple inheritance allows a class to inherit from multiple base classes. Issues include ambiguity and the diamond problem.                                                                 | 3                 |
  
 #### Matching game (Kirtoria Ward Group)
 
